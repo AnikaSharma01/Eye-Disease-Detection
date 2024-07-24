@@ -34,7 +34,7 @@ To evaluate the model, run:
 ```bash
 python evaluate.py
 ```
-This script will load the trained model and evaluate its performance on the test set, providing metrics such as accuracy, precision, recall, and F1-score.
+This script will load the trained model and evaluate its performance on the test set, providing metrics such as accuracy, precision.
 
 ## 📊 Results
 
