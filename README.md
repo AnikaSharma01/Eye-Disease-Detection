@@ -1,6 +1,6 @@
 # 👁️ Eye Disease Detection
 
-This repository is used to detect types of eye diseases through integrating the concepts of Artificial Intelligence(AI). It aims to detect eye diseases such as glaucoma, diabetic retinopathy, cataract, and normal eye conditions using model trained on a dataset imported from Kaggle.
+This repository is used to detect types of eye diseases through integrating the concepts of Artificial Intelligence(AI). It aims to detect eye diseases such as glaucoma, diabetic retinopathy, cataract, and normal eye conditions using model trained on a dataset imported from Kaggle. The code work is done using Python through various libraries etc.
 
 ## 🚀 Project Overview
 
